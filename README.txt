@@ -1,11 +1,11 @@
 
 TITLE: 
-Cube - 100% Fully Responsive Free HTML5 Bootstrap Template
+Tasty - 100% Fully Responsive Free HTML5 Bootstrap Template for Restaurant
 
 AUTHOR:
 DESIGNED & DEVELOPED by FreeHTML5.co
 
-Website: https://freehtml5.co/
+Website: http://freehtml5.co/
 Twitter: http://twitter.com/fh5co
 Facebook: http://facebook.com/fh5co
 
@@ -39,13 +39,20 @@ http://daneden.me/animate
 jQuery Waypoint
 https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
 
-Owl Carousel
-http://www.owlcarousel.owlgraphic.com/
+Flexslider
+http://flexslider.woothemes.com/
 
-Magnific Popup
-http://dimsemenov.com/plugins/magnific-popup/
+Zoomerang
+http://yyx990803.github.io/zoomerang/
+
+DateTimePicker
+https://github.com/Eonasdan/bootstrap-datetimepicker
+
+MomentJS
+http://momentjs.com
+
+Stellar Parallax
+http://markdalgleish.com/projects/stellar.js/
 
 Demo Images:
 http://unsplash.com
-http://pixeden.com
-
