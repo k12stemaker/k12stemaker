@@ -128,4 +128,4 @@
 
 ![](ReadMeImgs/qrcode200by200.jpg )
 
-官方网站：[宁波凯斯奥教育科技公司](https://k12stemaker.github.io)
+官方网站：[宁波凯思奥教育科技公司](https://k12stemaker.github.io)
