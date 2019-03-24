@@ -33,11 +33,10 @@
 
 
 /*sm only*/
-/*调整显示比例参数，将原来的33%变为25%*/
 
 @media (min-width: 768px) and (max-width: 991px) {
     .col-sm-4.portfolio-item {
-        width: 25%;
+        width: 33%;
     }
 }
 
