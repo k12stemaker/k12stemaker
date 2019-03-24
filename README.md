@@ -68,6 +68,7 @@
 <div align="center">
   <img src="ReadMeImgs/kechenglinian-1.jpg"><br><br>
 </div>
+
 **我们承诺**
 
 ①课程安排采用小组配合与小班教学的模式，配合助教使师生比在**1:4**以上；
