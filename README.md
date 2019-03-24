@@ -1,9 +1,11 @@
 # 宁波凯思奥教育科技有限公司
+<div align="center">
+  <img src="ReadMeImgs/kidscoding.jpg"><br><br>
+</div>
 
+-----------------
 
 ## 公司介绍
-
-
 
 宁波凯思奥教育科技有限公司是一家聚焦于小学生STEM创客教育的新行业公司，深受家长与市场的欢迎。我们并非传统的培训机构，而是将当代科技引入小学教育的实践者。2016年6月份年创建，与浙江大学宁波理工学院、鄞州图书馆、各小学等达成合作，拥有多个教学点。经营领域涵盖创客产品研发、创客课程研发、儿童编程、项目制作，半年的时间积累了众多的合作伙伴。
 
@@ -30,10 +32,19 @@
 ## 经营方式
 
 以STEM课程开发与硬件产品开发为核心，为各类培训机构提供创客教育方案与师资，举办各类夏、冬令营，竞赛，公益教育活动，推广自己的STEM教育核心理念，追求多方共赢。
+<div align="center">
+  <img src="ReadMeImgs/jingyingfangshi-1.jpg"><br><br>
+</div>
 
 希望通过我们的实践，让每个孩子都成为一名**有求知欲、能发挥自我特点，有逻辑思维的、有团队意识的、懂得分享的人**，为他们不仅在学习、也在未来的工作和生活中提供原动力。
+<div align="center">
+  <img src="ReadMeImgs/jingyingfangshi-2.jpg"><br><br>
+</div>
 
 摒弃现有的复杂、价格昂贵、重复利用率低的硬件系统，以自我开发的一套无线电子为核心硬件，结合Scratch软件，从硬纸板、亚克力、3D打印一直到金属切割，提供从小学一直到中学的渐进性教学工具，实现STEM教育的低门槛、重创意、发展无限制的核心理念。
+<div align="center">
+  <img src="ReadMeImgs/jingyingfangshi-3.jpg"><br><br>
+</div>
 
 ## 团队介绍
 
@@ -55,6 +66,9 @@
 
 兴趣课。有机械，有电子，有高级编程。为喜爱机械结构设计的小朋友们开设的设计班，具体课程有平面CAD制图，激光切割、三维设计、3D打印课程。再搭配之前阶段的对编程、电子元件的学习，综合运用，做一名合格的小小创客。这个课程**给予孩子们无限的创造性**，他们可以将任何想法通过设计表达出来，最大限度的表现自己。
 
+<div align="center">
+  <img src="ReadMeImgs/kechenglinian-1.jpg"><br><br>
+</div>
 我们承诺
 
 ①课程安排采用小组配合与小班教学的模式，配合助教使师生比在**1:4**以上；
@@ -66,21 +80,44 @@
 ## 合作机构
 
 **浙江大学宁波理工学院**
+<div align="center">
+  <img src="ReadMeImgs/hezuojigou-1.jpg"><br><br>
+</div>
 
 **海曙区第二外国语学校**
+<div align="center">
+  <img src="ReadMeImgs/hezuojigou-2.jpg"><br><br>
+</div>
 
 **宁波图书馆**
+<div align="center">
+  <img src="ReadMeImgs/hezuojigou-3.jpg"><br><br>
+</div>
 
 **鄞州青少年宫**
+<div align="center">
+  <img src="ReadMeImgs/hezuojigou-4.jpg"><br><br>
+</div>
 
 **高桥中学**
+<div align="center">
+  <img src="ReadMeImgs/hezuojigou-5.jpg"><br><br>
+</div>
 
 **海曙区尹江岸小学**
+<div align="center">
+  <img src="ReadMeImgs/hezuojigou-6.jpg"><br><br>
+</div>
 
 ## 教学成果
 
 我们在各个合作的机构中已经进行了将近一年的科技课、scratch编程课等，教学成果也颇丰，多次改进完善课案，受到广大家长与孩子的好评。另外，我们成功举办过一期主题为“游乐园”的主题冬令营，效果非常不错，参加过冬令营的孩子们与家长也表示收获颇丰。
-
+<div align="center">
+  <img src="ReadMeImgs/jiaoxuechengguo-1.jpg"><br><br>
+</div>
+<div align="center">
+  <img src="ReadMeImgs/jiaoxuechengguo-2.jpg"><br><br>
+</div>
 
 
 联系我们：+86 15724290665
@@ -88,5 +125,7 @@
 地址：宁波市鄞州区学士路655号（科技信息孵化园B栋1楼）
 
 微信公众号：凯思奥STEM创客教育
-
+<div align="center">
+  <img src="ReadMeImgs/contact-qrcode.jpg"><br><br>
+</div>
 官方网站：[宁波凯斯奥教育科技公司](https://k12stemaker.github.io)
