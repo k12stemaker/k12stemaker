@@ -170,13 +170,17 @@
 }
 
 #header .navbar-inverse .container{   
-  /*position: relative;*/
-  overflow: hidden;
-  background-color: #fff;
-  position: fixed; /* Set the navbar to fixed position */
-  top: 0; /* Position the navbar at the top of the page */
-  width: 100%; /* Full width */
+  position: relative;
 }
+ /***下面为增加的代码***/
+.collapse navbar-collapse {
+  overflow: hidden;
+  background-color: #ffffff;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
 
 .search{
   position: absolute;
