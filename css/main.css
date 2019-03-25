@@ -576,8 +576,6 @@ ul.sub-menu {
 #home-slider .main-slider {
   position: relative;
   height: 450px;
-  /*下面是增加的代码*/
-   margin-top: 72px
 }
 
 #home-slider .slide-text{
