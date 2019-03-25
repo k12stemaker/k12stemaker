@@ -119,7 +119,7 @@
   <img src="ReadMeImgs/jiaoxuechengguo-2.jpg"><br><br>
 </div>
 
-## 公司介绍
+## 联系我们
 
 电话：+86 15724290665
 
