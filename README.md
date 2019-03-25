@@ -119,8 +119,9 @@
   <img src="ReadMeImgs/jiaoxuechengguo-2.jpg"><br><br>
 </div>
 
+## 公司介绍
 
-联系我们：+86 15724290665
+电话：+86 15724290665
 
 地址：[宁波市鄞州区学士路655号（科技信息孵化园B栋1楼）](http://f.amap.com/6izQF_0626WrG)
 
