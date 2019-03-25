@@ -272,15 +272,30 @@
 #header .navbar-brand{
   padding: 0;
   margin-left: 0;
+   /* 下面是增加的代码 */
+  overflow: hidden;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
 }
 
 #header .navbar-brand h1{
   padding: 0;
   margin: 0;
+   /* 下面是增加的代码 */
+  overflow: hidden;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
 }
 
 #header .navbar-nav.navbar-right >li:last-child{
   margin-right: 20px;
+     /* 下面是增加的代码 */
+  overflow: hidden;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
 }
 
 #header .navbar-nav.navbar-right >li a {
@@ -289,6 +304,11 @@
   padding: 20px;
   text-transform: uppercase;
   font-weight: 300;
+     /* 下面是增加的代码 */
+  overflow: hidden;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
 }
 
 
@@ -303,6 +323,9 @@
 
 #header .navbar-inverse .navbar-nav  li a:hover{
   color: #00aeef;
+     /* 下面是增加的代码 */
+  background: #ddd;
+  color: black;
 }
 
 
