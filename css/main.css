@@ -577,7 +577,6 @@ ul.sub-menu {
   position: relative;
   height: 450px;
   /*下面是增加的代码*/
-  overflow: hidden;
    margin-top: 72px
 }
 
