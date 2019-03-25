@@ -169,9 +169,18 @@
   padding: 30px 0 60px 0;
 }
 
-#header .navbar-inverse .container{
+#header .navbar-inverse .container{   
   position: relative;
 }
+ /***下面为增加的代码***/
+.collapse navbar-collapse {
+  overflow: hidden;
+  background-color: #ffffff;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
 
 .search{
   position: absolute;
